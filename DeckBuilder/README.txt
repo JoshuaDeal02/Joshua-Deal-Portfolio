@@ -5,3 +5,5 @@ The main items that need to be finished are some statistical analysis and GUI cl
 
 This application was created using the Scryfall API and was created to further my skills 
 in working with mainly JSON but also APIs in general and the tkinter toolkit.
+
+NOTE this is a work in progress, the code does not reflect best practices because this project is unfinished.
