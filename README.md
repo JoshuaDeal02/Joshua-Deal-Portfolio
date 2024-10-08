@@ -1,4 +1,4 @@
-This repository is a collection of my recent side projects meant to demonstrate software engineering skills.
+This repository is a collection of my recent side projects meant to demonstrate software engineering skills (Specifically Backend).
 As such these programs are mostly meant for recruiters, but anyone is welcome to use the code for their own projects.
 Contact Information:
 Email: joshuadeal02@gmail.com
