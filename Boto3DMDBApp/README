@@ -1,0 +1,4 @@
+This program is an object oriented client for AWS ddb using boto3. 
+It is intended to demonstrate competency in using the basic ddb boto3 functions.
+Note that any json files that are used must be placed in the same directory.
+Additionally users must ensure that their database table is configured to use the program.
