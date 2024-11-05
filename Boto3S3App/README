@@ -1,0 +1,4 @@
+This program is an object oriented client for AWS S3 using boto3. 
+It is intended to demonstrate competency in using the basic S3 boto3 functions.
+Note that any  files that are uploaded must be placed in the same directory.
+Additionally users must ensure that their database table is configured to use the program.
